@@ -1,0 +1,10 @@
+D:\Daniel\COISAS_IMPORTANTES\EstDIII\Arvores\TesteArvore\obj\Debug\TesteArvore.csproj.AssemblyReference.cache
+D:\Daniel\COISAS_IMPORTANTES\EstDIII\Arvores\TesteArvore\obj\Debug\TesteArvore.Form1.resources
+D:\Daniel\COISAS_IMPORTANTES\EstDIII\Arvores\TesteArvore\obj\Debug\TesteArvore.Properties.Resources.resources
+D:\Daniel\COISAS_IMPORTANTES\EstDIII\Arvores\TesteArvore\obj\Debug\TesteArvore.csproj.GenerateResource.cache
+D:\Daniel\COISAS_IMPORTANTES\EstDIII\Arvores\TesteArvore\obj\Debug\TesteArvore.csproj.CoreCompileInputs.cache
+D:\Daniel\COISAS_IMPORTANTES\EstDIII\Arvores\TesteArvore\bin\Debug\TesteArvore.exe.config
+D:\Daniel\COISAS_IMPORTANTES\EstDIII\Arvores\TesteArvore\bin\Debug\TesteArvore.exe
+D:\Daniel\COISAS_IMPORTANTES\EstDIII\Arvores\TesteArvore\bin\Debug\TesteArvore.pdb
+D:\Daniel\COISAS_IMPORTANTES\EstDIII\Arvores\TesteArvore\obj\Debug\TesteArvore.exe
+D:\Daniel\COISAS_IMPORTANTES\EstDIII\Arvores\TesteArvore\obj\Debug\TesteArvore.pdb
